@@ -1,0 +1,1502 @@
+WER: 1.0001
+
+REF: and detailing police in civilian clothes to be scattered throughout the sizable crowd.
+HYP: Thank you.
+
+REF: When President and Mrs. Kennedy shook hands with members of the public along the fences surrounding the reception area, they were closely guarded by Secret Service agents
+HYP: Thank you.
+
+REF: who responded to the unplanned event with dispatch.
+HYP: Thank you.
+
+REF: As described in chapter 2, the President directed that his car stop on two occasions during the motorcade so that he could greet members of the public.
+HYP: Thank you.
+
+REF: At these stops, agents from the Presidential follow-up car stood between the President and the public,
+HYP: Thank you.
+
+REF: and on one occasion Agent Kellerman left the front seat of the President's car to take a similar position.
+HYP: Thank you.
+
+REF: The Commission regards such impromptu stops as presenting an unnecessary danger,
+HYP: Thank you.
+
+REF: but finds that the Secret Service agents did all that could have been done to take protective measures.
+HYP: Thank you.
+
+REF: The Presidential limousine.
+HYP: Thank you.
+
+REF: The limousine used by President Kennedy in Dallas was a convertible with a detachable, rigid plastic "bubble" top
+HYP: Thank you.
+
+REF: which was neither bulletproof nor bullet resistant.
+HYP: Thank you.
+
+REF: The last Presidential vehicle with any protection against small-arms fire left the White House in 1953.
+HYP: Thank you.
+
+REF: It was not then replaced because the state of the art did not permit the development of a bulletproof top of sufficiently light weight
+HYP: Thank you.
+
+REF: to permit its removal on those occasions when the President wished to ride in an open car.
+HYP: Thank you.
+
+REF: The Secret Service believed that it was very doubtful that any President would ride regularly in a vehicle with a fixed top, even though transparent.
+HYP: Thank you.
+
+REF: Since the assassination, the Secret Service, with the assistance of other Federal agencies and of private industry,
+HYP: Thank you.
+
+REF: has developed a vehicle for the better protection of the President.
+HYP: Thank you.
+
+REF: Access to passenger compartment of Presidential car.
+HYP: Thank you.
+
+REF: On occasion the Secret Service has been permitted to have an agent riding in the passenger compartment with the President.
+HYP: Thank you.
+
+REF: Presidents have made it clear, however, that they did not favor this or any other arrangement which interferes with the privacy of the President and his guests.
+HYP: Thank you.
+
+REF: The Secret Service has therefore suggested this practice only on extraordinary occasions.
+HYP: Thank you.
+
+REF: Without attempting to prescribe or recommend specific measures which should be employed for the future protection of Presidents,
+HYP: Thank you.
+
+REF: the Commission does believe that there are aspects of the protective measures employed in the motorcade at Dallas which deserve special comment.
+HYP: Thank you.
+
+REF: The Presidential vehicle in use in Dallas, described in chapter 2,
+HYP: Thank you.
+
+REF: had no special design or equipment which would have permitted the Secret Service agent riding in the driver's compartment
+HYP: Thank you.
+
+REF: to move into the passenger section without hindrance or delay. Had the vehicle been so designed it is possible that an agent riding in the front seat
+HYP: Thank you.
+
+REF: could have reached the President in time to protect him from the second and fatal shot to hit the President.
+HYP: Thank you.
+
+REF: However, such access to the President was interfered with both by the metal bar some 15 inches above the back of the front seat
+HYP: Thank you.
+
+REF: and by the passengers in the jump seats.
+HYP: Thank you.
+
+REF: In contrast, the Vice Presidential vehicle, although not specially designed for that purpose,
+HYP: Thank you.
+
+REF: had no passenger in a jump seat between Agent Youngblood and Vice President Johnson to interfere with Agent Youngblood's ability
+HYP: Thank you.
+
+REF: to take a protective position in the passenger compartment before the third shot was fired.
+HYP: Thank you.
+
+REF: The assassination suggests that it would have been of prime importance
+HYP: Thank you.
+
+REF: in the protection of the President if the Presidential car permitted immediate access to the President by a Secret Service agent at the first sign of danger.
+HYP: Thank you.
+
+REF: At that time the agents on the framing boards of the follow-up car were expected to perform such a function.
+HYP: Thank you.
+
+REF: However, these agents could not reach the President's car when it was traveling at an appreciable rate of speed.
+HYP: Thank you.
+
+REF: Even if the car is traveling more slowly, the delay involved in reaching the President may be crucial.
+HYP: Thank you.
+
+REF: It is clear that at the time of the shots in Dallas, Agent Clinton J. Hill leaped to the President's rescue as quickly as humanly possible.
+HYP: Thank you.
+
+REF: Even so, analysis of the motion picture films taken by amateur photographer Zapruder
+HYP: Thank you.
+
+REF: reveals that Hill first placed his hand on the Presidential car at frame 343, 30 frames
+HYP: Thank you.
+
+REF: and therefore approximately 1.6 seconds after the President was shot in the head.
+HYP: Thank you.
+
+REF: About 3.7 seconds after the President received this wound,
+HYP: Thank you.
+
+REF: Hill had both feet on the car and was climbing aboard to assist President and Mrs. Kennedy.
+HYP: Thank you.
+
+REF: Planning for motorcade contingencies.
+HYP: Thank you.
+
+REF: In response to inquiry by the Commission regarding the instructions to agents in a motorcade
+HYP: Thank you.
+
+REF: of emergency procedures to be taken in a contingency such as that which actually occurred, the Secret Service responded, quote,
+HYP: Thank you.
+
+REF: The Secret Service has consistently followed two general principles in emergencies involving the President.
+HYP: Thank you.
+
+REF: All agents are so instructed.
+HYP: Thank you.
+
+REF: The first duty of the agents in the motorcade is to attempt to cover the President as closely as possible and practicable
+HYP: Thank you.
+
+REF: and to shield him by attempting to place themselves between the President and any source of danger.
+HYP: Thank you.
+
+REF: Secondly, agents are instructed to remove the President as quickly as possible from known or impending danger.
+HYP: Thank you.
+
+REF: Agents are instructed that it is not their responsibility to investigate or evaluate a present danger,
+HYP: Thank you.
+
+REF: but to consider any untoward circumstances as serious and to afford the President maximum protection at all times.
+HYP: Thank you.
+
+REF: No responsibility rests upon those agents near the President for the identification or arrest of any assassin or an attacker.
+HYP: Thank you.
+
+REF: Their primary responsibility is to stay with and protect the President.
+HYP: Thank you.
+
+REF: Beyond these two principles the Secret Service believes a detailed contingency or emergency plan is not feasible
+HYP: Thank you.
+
+REF: because the variations possible preclude effective planning.
+HYP: Thank you.
+
+REF: A number of steps are taken, however, to permit appropriate steps to be taken in an emergency.
+HYP: Thank you.
+
+REF: For instance, the lead car always is manned by Secret Service agents familiar with the area and with local law enforcement officials;
+HYP: Thank you.
+
+REF: the radio net in use in motorcades is elaborate and permits a number of different means of communication with various local points.
+HYP: Thank you.
+
+REF: A doctor is in the motorcade.
+HYP: Thank you.
+
+REF: This basic approach to the problem of planning for emergencies is sound.
+HYP: Thank you.
+
+REF: Any effort to prepare detailed contingency plans might well have the undesirable effect of inhibiting quick and imaginative responses.
+HYP: Thank you.
+
+REF: If the advance preparation is thorough, and the protective devices and techniques employed are sound,
+HYP: Thank you.
+
+REF: those in command should be able to direct the response appropriate to the emergency. The Commission finds that the Secret Service agents in the motorcade
+HYP: Thank you.
+
+REF: who were immediately responsible for the President's safety reacted promptly at the time the shots were fired.
+HYP: Thank you.
+
+REF: Their actions demonstrate that the President and the Nation can expect courage and devotion to duty from the agents of the Secret Service.
+HYP: Thank you.
+
+REF: Recommendations.
+HYP: Thank you.
+
+REF: The Commission's review of the provisions for Presidential protection at the time of President Kennedy's trip to Dallas demonstrates the need for substantial improvements.
+HYP: Thank you.
+
+REF: Since the assassination, the Secret Service and the Department of the Treasury
+HYP: Thank you.
+
+REF: have properly taken the initiative in reexamining major aspects of Presidential protection.
+HYP: Thank you.
+
+REF: Many changes have already been made and others are contemplated, some of them in response to the Commission's questions and informal suggestions.
+HYP: Thank you.
+
+REF: Assassination a Federal Crime
+HYP: Thank you.
+
+REF: There was no Federal criminal jurisdiction over the assassination of President Kennedy.
+HYP: Thank you.
+
+REF: Had there been reason to believe that the assassination was the result of a conspiracy, Federal jurisdiction could have been asserted;
+HYP: Thank you.
+
+REF: it has long been a Federal crime to conspire to injure any Federal officer, on account of, or while he is engaged in, the lawful discharge of the duties of his office.
+HYP: Thank you.
+
+REF: Murder of the President has never been covered by Federal law, however, so that once it became reasonably clear that the killing was the act of a single person,
+HYP: Thank you.
+
+REF: the State of Texas had exclusive jurisdiction.
+HYP: Thank you.
+
+REF: It is anomalous that Congress has legislated in other ways touching upon the safety of the Chief Executive or other Federal officers,
+HYP: Thank you.
+
+REF: without making an attack on the President a crime. Threatening harm to the President is a Federal offense,
+HYP: Thank you.
+
+REF: as is advocacy of the overthrow of the Government by the assassination of any of its officers.
+HYP: Thank you.
+
+REF: The murder of Federal judges, U.S. attorneys and marshals, and a number of other specifically designated
+HYP: Thank you.
+
+REF: Federal law enforcement officers is a Federal crime.
+HYP: Thank you.
+
+REF: Equally anomalous are statutory provisions which specifically authorize the Secret Service to protect the President,
+HYP: Thank you.
+
+REF: without authorizing it to arrest anyone who harms him. The same provisions authorize the Service to arrest without warrant
+HYP: Thank you.
+
+REF: persons committing certain offenses, including counterfeiting and certain frauds involving Federal checks or securities.
+HYP: Thank you.
+
+REF: The Commission agrees with the Secret Service that it should be authorized to make arrests without warrant
+HYP: Thank you.
+
+REF: for all offenses within its jurisdiction, as are FBI agents and Federal marshals.
+HYP: Thank you.
+
+REF: There have been a number of efforts to make assassination a Federal crime, particularly after the assassination of President McKinley
+HYP: Thank you.
+
+REF: and the attempt on the life of President-elect Franklin D. Roosevelt.
+HYP: Thank you.
+
+REF: In 1902 bills passed both Houses of Congress but failed of enactment when the Senate refused to accept the conference report.
+HYP: Thank you.
+
+REF: A number of bills were introduced immediately following the assassination of President Kennedy.
+HYP: Thank you.
+
+REF: The Commission recommends to the Congress that it adopt legislation which would:
+HYP: Thank you.
+
+REF: Punish the murder or manslaughter of, attempt or conspiracy to murder, kidnaping of and assault upon
+HYP: Thank you.
+
+REF: the President, Vice President, or other officer next in the order of succession to the Office of President, the President-elect and the Vice-President-elect,
+HYP: Thank you.
+
+REF: whether or not the act is committed while the victim is in the performance of his official duties or on account of such performance.
+HYP: Thank you.
+
+REF: Such a statute would cover the President and Vice President or, in the absence of a Vice President, the person next in order of succession.
+HYP: Thank you.
+
+REF: During the period between election and inauguration, the President-elect and Vice-President-elect would also be covered.
+HYP: Thank you.
+
+REF: Restricting the coverage in this way would avoid unnecessary controversy over the inclusion or exclusion of other officials who are in the order of succession
+HYP: Thank you.
+
+REF: or who hold important governmental posts.
+HYP: Thank you.
+
+REF: In addition, the restriction would probably eliminate a need for the requirement which has been urged as necessary for the exercise of Federal power,
+HYP: Thank you.
+
+REF: that the hostile act occur while the victim is engaged in or because of the performance of official duties.
+HYP: Thank you.
+
+REF: The governmental consequences of assassination of one of the specified officials give the United States ample power to act for its own protection.
+HYP: Thank you.
+
+REF: The activities of the victim at the time an assassination occurs and the motive for the assassination
+HYP: Thank you.
+
+REF: bear no relationship to the injury to the United States which follows from the act.
+HYP: Thank you.
+
+REF: This point was ably made in the 1902 debate by Senator George F. Hoar, the sponsor of the Senate bill, quote,
+HYP: Thank you.
+
+REF: what this bill means to punish is the crime of interruption of the Government of the United States and the destruction of its security by striking down the life
+HYP: Thank you.
+
+REF: of the person who is actually in the exercise of the executive power, or
+HYP: Thank you.
+
+REF: of such persons as have been constitutionally and lawfully provided to succeed thereto in case of a vacancy. It is important to this country
+HYP: Thank you.
+
+REF: that the interruption shall not take place for an hour, end quote.
+HYP: Thank you.
+
+REF: Enactment of this statute would mean that the investigation of any of the acts covered and of the possibility of a further attempt
+HYP: Thank you.
+
+REF: would be conducted by Federal law enforcement officials, in particular, the FBI with the assistance of the Secret Service.
+HYP: Thank you.
+
+REF: At present, Federal agencies participate only upon the sufferance of the local authorities.
+HYP: Thank you.
+
+REF: While the police work of the Dallas authorities in the early identification and apprehension of Oswald was both efficient and prompt,
+HYP: Thank you.
+
+REF: FBI Director J. Edgar Hoover, who strongly supports such legislation, testified that the absence of clear Federal jurisdiction
+HYP: Thank you.
+
+REF: over the assassination of President Kennedy led to embarrassment and confusion in the subsequent investigation by Federal and local authorities.
+HYP: Thank you.
+
+REF: In addition, the proposed legislation will insure
+HYP: Thank you.
+
+REF: that any suspects who are arrested will be Federal prisoners, subject to Federal protection from vigilante justice and other threats.
+HYP: Thank you.
+
+REF: Committee of Cabinet Officers. As our Government has become more complex,
+HYP: Thank you.
+
+REF: agencies other than the Secret Service have become involved in phases of the overall problem of protecting our national leaders.
+HYP: Thank you.
+
+REF: The FBI is the major domestic investigating agency of the United States,
+HYP: Thank you.
+
+REF: while the CIA has the primary responsibility for collecting intelligence overseas to supplement information acquired by the Department of State.
+HYP: Thank you.
+
+REF: The Secret Service must rely in large part
+HYP: Thank you.
+
+REF: The Commission believes that it is necessary to improve the cooperation among these agencies
+HYP: Thank you.
+
+REF: and to emphasize that the task of Presidential protection is one of broad national concern.
+HYP: Thank you.
+
+REF: The Commission suggests that consideration might be given to assigning to a Cabinet-level committee or the National Security Council
+HYP: Thank you.
+
+REF: (which is responsible for advising the President respecting the coordination
+HYP: Thank you.
+
+REF: of departmental policies relating to the national security) the responsibility to review and oversee the protective activities of the Secret Service
+HYP: Thank you.
+
+REF: and the other Federal agencies that assist in safeguarding the President. The Committee should include the Secretary of the Treasury and the Attorney General,
+HYP: Thank you.
+
+REF: and, if the Council is used, arrangements should be made for the attendance of the Secretary of the Treasury
+HYP: Thank you.
+
+REF: and the Attorney General at any meetings which are concerned with Presidential protection.
+HYP: Thank you.
+
+REF: The Council already includes, in addition to the President and Vice President, the Secretaries of State and Defense and has a competent staff.
+HYP: Thank you.
+
+REF: The foremost assignment of the Committee would be to insure that the maximum resources of the Federal Government are fully engaged in the job of protecting the President,
+HYP: Thank you.
+
+REF: by defining responsibilities clearly and overseeing their execution.
+HYP: Thank you.
+
+REF: Major needs of personnel or other resources might be met more easily on its recommendation than they have been in the past.
+HYP: Thank you.
+
+REF: The Committee would be able to provide guidance in defining the general nature of domestic and foreign dangers to Presidential security.
+HYP: Thank you.
+
+REF: As improvements are recommended for the advance detection of potential threats to the President, it could act as a final review board.
+HYP: Thank you.
+
+REF: The expert assistance and resources which it could draw upon would be particularly desirable in this complex and sensitive area.
+HYP: Thank you.
+
+REF: This arrangement would provide a continuing high-level contact for agencies that may wish to consult respecting particular protective measures.
+HYP: Thank you.
+
+REF: For various reasons the Secret Service has functioned largely as an informal part of the White House staff, with the result
+HYP: Thank you.
+
+REF: that it has been unable, as a practical matter, to exercise sufficient influence over the security precautions which surround Presidential activities.
+HYP: Thank you.
+
+REF: A Cabinet-level committee which is actively concerned with these problems would be able to discuss these matters more effectively with the President.
+HYP: Thank you.
+
+REF: Responsibilities for Presidential Protection
+HYP: Thank you.
+
+REF: The assignment of the responsibility of protecting the President to an agency of the Department of the Treasury was largely an historical accident.
+HYP: Thank you.
+
+REF: The Secret Service was organized as a division of the Department of the Treasury in 1865, to deal with counterfeiting.
+HYP: Thank you.
+
+REF: In 1894,
+HYP: Thank you.
+
+REF: while investigating a plot to assassinate President Cleveland, the Service assigned a small protective detail of agents to the White House.
+HYP: Thank you.
+
+REF: Secret Service men accompanied the President and his family to their vacation home in Massachusetts
+HYP: Thank you.
+
+REF: and special details protected him in Washington, on trips, and at special functions.
+HYP: Thank you.
+
+REF: These informal and part-time arrangements led to more systematic protection in 1902, after the assassination of President McKinley;
+HYP: Thank you.
+
+REF: the Secret Service, then the only Federal investigative agency, assumed full-time responsibility for the safety of the President.
+HYP: Thank you.
+
+REF: Since that time, the Secret Service has had and exercised responsibility for the physical protection of the President
+HYP: Thank you.
+
+REF: and also for the preventive investigation of potential threats against the President.
+HYP: Thank you.
+
+REF: Although the Secret Service has had the primary responsibility for the protection of the President,
+HYP: Thank you.
+
+REF: the FBI, which was established within the Department of Justice in 1908, has had in recent years an increasingly important role to play.
+HYP: Thank you.
+
+REF: In the appropriations of the FBI there has recurred annually an item for the, quote, protection of the person of the President of the United States, end quote,
+HYP: Thank you.
+
+REF: which first appeared in the appropriation of the Department of Justice in 1910 under the heading, quote, Miscellaneous Objects, end quote.
+HYP: Thank you.
+
+REF: Although the FBI is not charged with the physical protection of the President, it does have an assignment, as do other Government agencies,
+HYP: Thank you.
+
+REF: in the field of preventive investigation in regard to the President's security.
+HYP: Thank you.
+
+REF: As discussed above, the Bureau has attempted to meet its responsibilities in this field by spelling out in its Handbook
+HYP: Thank you.
+
+REF: the procedures which its agents are to follow in connection with information received, quote,
+HYP: Thank you.
+
+REF: indicating the possibility of an attempt against the person or safety of the President, end quote, or other protected persons.
+HYP: Thank you.
+
+REF: With two Federal agencies operating in the same general field of preventive investigation,
+HYP: Thank you.
+
+REF: questions inevitably arise as to the scope of each agency's authority and responsibility.
+HYP: Thank you.
+
+REF: As the testimony of J. Edgar Hoover and other Bureau officials revealed, the FBI did not believe that its directive required the Bureau
+HYP: Thank you.
+
+REF: to notify the Secret Service of the substantial information about Lee Harvey Oswald which the FBI had accumulated
+HYP: Thank you.
+
+REF: before the President reached Dallas.
+HYP: Thank you.
+
+REF: On the other hand, the Secret Service had no knowledge whatever of Oswald, his background, or his employment at the Book Depository,
+HYP: Thank you.
+
+REF: and Robert I. Bouck, who was in charge of the Protective Research Section of the Secret Service, believed that the accumulation of the facts known to the FBI
+HYP: Thank you.
+
+REF: should have constituted a sufficient basis to warn the Secret Service of the Oswald risk.
+HYP: Thank you.
+
+REF: The Commission believes that both the FBI and the Secret Service have too narrowly construed their respective responsibilities.
+HYP: Thank you.
+
+REF: The Commission has the impression
+HYP: Thank you.
+
+REF: that too much emphasis is placed by both on the investigation of specific threats by individuals and not enough on dangers from other sources.
+HYP: Thank you.
+
+REF: In addition, the Commission has concluded that the Secret Service particularly tends to be the passive recipient of information
+HYP: Thank you.
+
+REF: regarding such threats and that its Protective Research Section is not adequately staffed or equipped
+HYP: Thank you.
+
+REF: to conduct the wider investigative work that is required today for the security of the President.
+HYP: Thank you.
+
+REF: During the period the Commission was giving thought to this situation,
+HYP: Thank you.
+
+REF: the Commission received a number of proposals designed to improve current arrangements for protecting the President.
+HYP: Thank you.
+
+REF: These proposals included suggestions to locate exclusive responsibility for all phases of the work
+HYP: Thank you.
+
+REF: in one or another Government agency, to clarify the division of authority between the agencies involved, and to retain the existing system
+HYP: Thank you.
+
+REF: but expand both the scope and the operations of the existing agencies, particularly those of the Secret Service and the FBI.
+HYP: Thank you.
+
+REF: It has been pointed out that the FBI, as our chief investigative agency,
+HYP: Thank you.
+
+REF: is properly manned and equipped to carry on extensive information gathering functions within the United States.
+HYP: Thank you.
+
+REF: It was also suggested that it would take a substantial period of time for the Secret Service to build up the experience and skills necessary to meet the problem.
+HYP: Thank you.
+
+REF: Consequently the suggestion has been made, on the one hand, that all preventive investigative functions relating to the security of the President
+HYP: Thank you.
+
+REF: should be transferred to the FBI,
+HYP: Thank you.
+
+REF: leaving with the Secret Service only the responsibility for the physical protection of the President, that is, the guarding function alone.
+HYP: Thank you.
+
+REF: On the other hand, it is urged that all features of the protection of the President and his family should be committed to an elite and independent corps.
+HYP: Thank you.
+
+REF: It is also contended that the agents should be intimately associated with the life of the Presidential family
+HYP: Thank you.
+
+REF: in all its ramifications and alert to every danger that might befall it,
+HYP: Thank you.
+
+REF: and ready at any instant to hazard great danger to themselves in the performance of their tremendous responsibility.
+HYP: Thank you.
+
+REF: It is suggested that an organization shorn of its power to investigate all the possibilities of danger to the President
+HYP: Thank you.
+
+REF: and becoming merely the recipient of information gathered by others would become limited solely to acts of physical alertness and personal courage
+HYP: Thank you.
+
+REF: incident to its responsibilities.
+HYP: Thank you.
+
+REF: So circumscribed, it could not maintain the esprit de corps or the necessary alertness for this unique and challenging responsibility.
+HYP: Thank you.
+
+REF: While in accordance with its mandate
+HYP: Thank you.
+
+REF: this Commission has necessarily examined into the functioning of the various Federal agencies concerned with the tragic trip of President Kennedy to Dallas
+HYP: Thank you.
+
+REF: and while it has arrived at certain conclusions in respect thereto, it seems clear
+HYP: Thank you.
+
+REF: that it was not within the Commission's responsibility to make specific recommendations as to the long-range organization of the President's protection,
+HYP: Thank you.
+
+REF: except as conclusions flowing directly from its examination of the President's assassination can be drawn.
+HYP: Thank you.
+
+REF: The Commission was not asked to apply itself as did the Hoover Commission in 1949,
+HYP: Thank you.
+
+REF: for examples to a determination of the optimum organization of the President's protection.
+HYP: Thank you.
+
+REF: It would have been necessary for the Commission to take considerable testimony, much of it extraneous to the facts of the assassination of President Kennedy,
+HYP: Thank you.
+
+REF: to put it in a position to reach final conclusions in this respect.
+HYP: Thank you.
+
+REF: There are always dangers of divided responsibility,
+HYP: Thank you.
+
+REF: duplication, and confusion of authority where more than one agency is operating in the same field; but on the other hand
+HYP: Thank you.
+
+REF: the protection of the President is in a real sense a Government-wide responsibility which must necessarily assumed by the Department of State,
+HYP: Thank you.
+
+REF: the FBI, the CIA, and the military intelligence agencies as well as the Secret Service.
+HYP: Thank you.
+
+REF: Moreover, a number of imponderable questions have to be weighed if any change in the intimate association now established
+HYP: Thank you.
+
+REF: between the Secret Service and the President and his family is contemplated.
+HYP: Thank you.
+
+REF: These considerations have induced the Commission to believe
+HYP: Thank you.
+
+REF: that the determination of whether or not there should be a relocation of responsibilities and functions should be left to the Executive and the Congress,
+HYP: Thank you.
+
+REF: perhaps upon recommendations based on further studies by the Cabinet-level committee recommended above or the National Security Council.
+HYP: Thank you.
+
+REF: Pending any such determination, however, this Commission is convinced of the necessity of better coordination
+HYP: Thank you.
+
+REF: and direction of the activities of all existing agencies of Government which are in a position to and do, furnish information
+HYP: Thank you.
+
+REF: and services related to the security of the President.
+HYP: Thank you.
+
+REF: The Commission feels the Secret Service and the FBI, as well as the State Department and the CIA when the President travels abroad,
+HYP: Thank you.
+
+REF: could improve their existing capacities and procedures so as to lessen the chances of assassination.
+HYP: Thank you.
+
+REF: Without, therefore, coming to final conclusions respecting the long-range organization of the President's security,
+HYP: Thank you.
+
+REF: the Commission believes that the facts of the assassination of President Kennedy point to certain measures which,
+HYP: Thank you.
+
+REF: while assuming no radical relocation of responsibilities,
+HYP: Thank you.
+
+REF: can and should be recommended by this Commission in the interest of the more efficient protection of the President.
+HYP: Thank you.
+
+REF: For more information, or to volunteer, please visit librivox dot org. Report of the President's Commission on the Assassination of President Kennedy.
+HYP: Thank you.
+
+REF: The Warren Commission Report.
+HYP: Thank you.
+
+REF: By The President's Commission on the Assassination of President Kennedy. Chapter 8. The Protection of the President. Part 5.
+HYP: Thank you.
+
+REF: General Supervision of the Secret Service
+HYP: Thank you.
+
+REF: The intimacy of the Secret Service's relationship to the White House
+HYP: Thank you.
+
+REF: and the dissimilarity of its protective functions to most activities of the Department of the Treasury
+HYP: Thank you.
+
+REF: have made it difficult for the Treasury to maintain close and continuing supervision.
+HYP: Thank you.
+
+REF: The Commission believes that the recommended Cabinet-level committee will help to correct many of the major deficiencies of supervision
+HYP: Thank you.
+
+REF: disclosed by the Commission's investigation. Other measures should be taken as well to improve the overall operation of the Secret Service.
+HYP: Thank you.
+
+REF: Daily supervision of the operations of the Secret Service within the Department of the Treasury should be improved.
+HYP: Thank you.
+
+REF: The Chief of the Service now reports to the Secretary of the Treasury
+HYP: Thank you.
+
+REF: through an Assistant Secretary whose duties also include the direct supervision of the Bureau of the Mint
+HYP: Thank you.
+
+REF: and the Department's Employment Policy Program, and who also represents the Secretary of the Treasury on various committees and groups.
+HYP: Thank you.
+
+REF: The incumbent has no technical qualifications in the area of Presidential protection.
+HYP: Thank you.
+
+REF: The Commission recommends that the Secretary of the Treasury appoint a special assistant with the responsibility of supervising the Service.
+HYP: Thank you.
+
+REF: This special assistant should be required to have sufficient stature and experience in law enforcement, intelligence, or allied fields
+HYP: Thank you.
+
+REF: to be able to provide effective continuing supervision
+HYP: Thank you.
+
+REF: and to keep the Secretary fully informed regarding all significant developments relating to Presidential protection.
+HYP: Thank you.
+
+REF: This report has already pointed out several respects
+HYP: Thank you.
+
+REF: in which the Commission believes that the Secret Service has operated with insufficient planning or control.
+HYP: Thank you.
+
+REF: Actions by the Service since the assassination indicate its awareness of the necessity for substantial improvement in its administration.
+HYP: Thank you.
+
+REF: A formal and thorough description of the responsibilities of the advance agent is now in preparation by the Service.
+HYP: Thank you.
+
+REF: Work is going forward
+HYP: Thank you.
+
+REF: toward the preparation of formal understandings of the respective roles of the Secret Service and other agencies with which it collaborates
+HYP: Thank you.
+
+REF: or from which it derives assistance and support.
+HYP: Thank you.
+
+REF: The Commission urges that the Service continue this effort to overhaul and define its procedures.
+HYP: Thank you.
+
+REF: While manuals and memoranda are no guarantee of effective operations,
+HYP: Thank you.
+
+REF: no sizable organization can achieve efficiency without the careful analysis and demarcation of responsibility
+HYP: Thank you.
+
+REF: that is reflected in definite and comprehensive operating procedures.
+HYP: Thank you.
+
+REF: The Commission also recommends
+HYP: Thank you.
+
+REF: that the Secret Service consciously set about the task of inculcating and maintaining the highest standard of excellence and esprit, for all of its personnel.
+HYP: Thank you.
+
+REF: This involves tight and unswerving discipline as well as the promotion of an outstanding degree of dedication and loyalty to duty.
+HYP: Thank you.
+
+REF: The Commission emphasizes that it finds no causal connection between the assassination
+HYP: Thank you.
+
+REF: and the breach of regulations which occurred on the night of November 21 at Fort Worth.
+HYP: Thank you.
+
+REF: Nevertheless, such a breach, in which so many agents participated,
+HYP: Thank you.
+
+REF: is not consistent with the standards which the responsibilities of the Secret Service require it to meet.
+HYP: Thank you.
+
+REF: Preventive Intelligence
+HYP: Thank you.
+
+REF: In attempting to identify those individuals who might prove a danger to the President,
+HYP: Thank you.
+
+REF: the Secret Service has largely been the passive recipient of threatening communications to the President
+HYP: Thank you.
+
+REF: and reports from other agencies which independently evaluate their information for potential sources of danger.
+HYP: Thank you.
+
+REF: This was the consequence of the Service's lack of an adequate investigative staff,
+HYP: Thank you.
+
+REF: its inability to process large amounts of data, and its failure to provide specific descriptions of the kind of information it sought.
+HYP: Thank you.
+
+REF: The Secret Service has embarked upon a complete overhaul of its research activities. The staff of the Protective Research Section (PRS)
+HYP: Thank you.
+
+REF: has been augmented, and a Secret Service inspector has been put in charge of this operation. With the assistance of the President's Office of Science and Technology,
+HYP: Thank you.
+
+REF: and of the Advanced Research Projects Agency of the Department of Defense,
+HYP: Thank you.
+
+REF: it has obtained the services of outside consultants, such as the Rand Corporation,
+HYP: Thank you.
+
+REF: International Business Machines Corporation, and a panel of psychiatric and psychological experts.
+HYP: Thank you.
+
+REF: It has received assistance also from data processing experts at the CIA
+HYP: Thank you.
+
+REF: and from a specialist in psychiatric prognostication at Walter Reed Hospital.
+HYP: Thank you.
+
+REF: As a result of these studies, the planning document submitted by the Secretary of the Treasury to the Bureau of the Budget on August 31,
+HYP: Thank you.
+
+REF: 1964, makes several significant recommendations in this field.
+HYP: Thank you.
+
+REF: Based on the Commission's investigation, the following minimum goals for improvements are indicated:
+HYP: Thank you.
+
+REF: Broader and more selective criteria
+HYP: Thank you.
+
+REF: Since the assassination, both the Secret Service and the FBI have recognized
+HYP: Thank you.
+
+REF: that the PRS files can no longer be limited largely to persons communicating actual threats to the President.
+HYP: Thank you.
+
+REF: On December 26, 1963, the FBI circulated additional instructions to all its agents,
+HYP: Thank you.
+
+REF: specifying criteria for information to be furnished to the Secret Service in addition to that covered by the former standard,
+HYP: Thank you.
+
+REF: which was the possibility of an attempt against the person or safety of the President.
+HYP: Thank you.
+
+REF: he new instructions require FBI agents to report immediately information concerning, quote,
+HYP: Thank you.
+
+REF: Subversives, ultrarightists, racists and fascists (a) possessing emotional instability or irrational behavior,
+HYP: Thank you.
+
+REF: (b) who have made threats of bodily harm against officials or employees of Federal, state or local government or officials of a foreign government,
+HYP: Thank you.
+
+REF: (c) who express or have expressed strong or violent anti-U.S. sentiments
+HYP: Thank you.
+
+REF: and who have been involved in bombing or bomb-making or whose past conduct indicates tendencies toward violence, and (d)
+HYP: Thank you.
+
+REF: whose prior acts or statements depict propensity for violence and hatred against organized government, end quote.
+HYP: Thank you.
+
+REF: Alan H. Belmont, Assistant to the Director of the FBI, testified that this revision was initiated by the FBI itself.
+HYP: Thank you.
+
+REF: The volume of references to the Secret Service has increased substantially since the new instructions went into effect;
+HYP: Thank you.
+
+REF: more than 5,000 names were referred to the Secret Service in the first 4 months of 1964.
+HYP: Thank you.
+
+REF: According to Chief Rowley, by mid-June 1964,
+HYP: Thank you.
+
+REF: the Secret Service had received from the FBI some 9,000 reports on members of the Communist Party.
+HYP: Thank you.
+
+REF: The FBI now transmits information on all defectors, a category which would, of course, have included Oswald.
+HYP: Thank you.
+
+REF: Both Director Hoover and Belmont expressed to the Commission the great concern of the FBI, which is shared by the Secret Service,
+HYP: Thank you.
+
+REF: that referrals to the Secret Service under the new criteria might, if not properly handled,
+HYP: Thank you.
+
+REF: result in some degree of interference with the personal liberty of those involved.
+HYP: Thank you.
+
+REF: They emphasized the necessity that the information now being furnished be handled with judgment and care.
+HYP: Thank you.
+
+REF: The Commission shares this concern.
+HYP: Thank you.
+
+REF: The problem is aggravated by the necessity that the Service obtain the assistance of local law enforcement officials in evaluating the information which it receives
+HYP: Thank you.
+
+REF: and in taking preventive steps.
+HYP: Thank you.
+
+REF: In June 1964, the Secret Service sent to a number of Federal law enforcement and intelligence agencies
+HYP: Thank you.
+
+REF: guidelines for an experimental program to develop more detailed criteria.
+HYP: Thank you.
+
+REF: The suggestions of Federal agencies for revision of these guidelines were solicited.
+HYP: Thank you.
+
+REF: The new tentative criteria are useful in making clear that
+HYP: Thank you.
+
+REF: the interest of the Secret Service goes beyond information on individuals or groups threatening to cause harm or embarrassment to the President.
+HYP: Thank you.
+
+REF: Information is requested also concerning individuals or groups who have demonstrated an interest in the President
+HYP: Thank you.
+
+REF: or, quote, other high government officials in the nature of a complaint coupled with an expressed or implied determination to use a means,
+HYP: Thank you.
+
+REF: other than legal or peaceful, to satisfy any grievance, real or imagined.
+HYP: Thank you.
+
+REF: Under these criteria, whether the case should be referred to the Secret Service depends on the existence of a previous history of mental instability,
+HYP: Thank you.
+
+REF: propensity toward violent action, or some similar characteristic, coupled with some evaluation of the capability of the individual or group
+HYP: Thank you.
+
+REF: to further the intention to satisfy a grievance by unlawful means.
+HYP: Thank you.
+
+REF: While these tentative criteria are a step in the right direction,
+HYP: Thank you.
+
+REF: they seem unduly restrictive in continuing to require some manifestation of animus against a Government official.
+HYP: Thank you.
+
+REF: It is questionable whether such criteria would have resulted in the referral of Oswald to the Secret Service.
+HYP: Thank you.
+
+REF: Chief Rowley believed that they would,
+HYP: Thank you.
+
+REF: because of Oswald's demonstrated hostility toward the Secretary of the Navy in his letter of January 30, 1962. Quote,
+HYP: Thank you.
+
+REF: I shall employ all means to right this gross mistake or injustice to a bona fide U.S. citizen and ex-service man.
+HYP: Thank you.
+
+REF: The U.S. government has no charges or complaints against me.
+HYP: Thank you.
+
+REF: I ask you to look into this case and take the necessary steps to repair the damage done to me and my family. End quote.
+HYP: Thank you.
+
+REF: Even with the advantage of hindsight, this letter does not appear to express or imply Oswald's, quote,
+HYP: Thank you.
+
+REF: determination to use a means, other than legal or peaceful, to satisfy his grievance, end quote, within the meaning of the new criteria.
+HYP: Thank you.
+
+REF: It is apparent that a good deal of further consideration and experimentation will be required before adequate criteria can be framed.
+HYP: Thank you.
+
+REF: The Commission recognizes that no set of meaningful criteria will yield the names of all potential assassins. Charles J. Guiteau,
+HYP: Thank you.
+
+REF: Leon F. Czolgosz,
+HYP: Thank you.
+
+REF: John Schrank, and Guiseppe Zangara -- four assassins or would-be assassins
+HYP: Thank you.
+
+REF: were all men who acted alone in their criminal acts against our leaders. None had a serious record of prior violence.
+HYP: Thank you.
+
+REF: Each of them was a failure in his work and in his relations with others, a victim of delusions and fancies which led to the conviction
+HYP: Thank you.
+
+REF: that society and its leaders had combined to thwart him. It will require every available resource of our Government
+HYP: Thank you.
+
+REF: to devise a practical system which has any reasonable possibility of revealing such malcontents.
+HYP: Thank you.
+
+REF: Liaison with other agencies regarding intelligence.
+HYP: Thank you.
+
+REF: The Secret Service's liaison with the agencies that supply information to it has been too casual.
+HYP: Thank you.
+
+REF: Since the assassination, the Service has recognized that these relationships must be far more formal
+HYP: Thank you.
+
+REF: and each agency given clear understanding of the assistance which the Secret Service expects.
+HYP: Thank you.
+
+REF: Once the Secret Service has formulated its new standards for collection of information, it should enter into written agreements with each Federal agency
+HYP: Thank you.
+
+REF: and the leading State and local agencies that might be a source of such information.
+HYP: Thank you.
+
+REF: Such agreements should describe in detail the information which is sought, the manner in which it will be provided to the Secret Service,
+HYP: Thank you.
+
+REF: and the respective responsibilities for any further investigation that may be required.
+HYP: Thank you.
+
+REF: This is especially necessary with regard to the FBI and CIA,
+HYP: Thank you.
+
+REF: which carry the major responsibility for supplying information about potential threats,
+HYP: Thank you.
+
+REF: particularly those arising from organized groups, within their special jurisdiction.
+HYP: Thank you.
+
+REF: Since these agencies are already obliged constantly to evaluate the activities of such groups,
+HYP: Thank you.
+
+REF: they should be responsible for advising the Secret Service if information develops indicating the existence of an assassination plot
+HYP: Thank you.
+
+REF: and for reporting such events as a change in leadership or dogma which indicate that the group may present a danger to the President.
+HYP: Thank you.
+
+REF: Detailed formal agreements embodying these arrangements should be worked out between the Secret Service and both of these agencies.
+HYP: Thank you.
+
+REF: It should be made clear that the Secret Service will in no way seek to duplicate the intelligence
+HYP: Thank you.
+
+REF: and investigative capabilities of the agencies now operating in this field but will continue
+HYP: Thank you.
+
+REF: to use the data developed by these agencies to carry out its special duties.
+HYP: Thank you.
+
+REF: Once experience has been gained in implementing such agreements with the Federal and leading State and local agencies,
+HYP: Thank you.
+
+REF: the Secret Service, through its field offices,
+HYP: Thank you.
+
+REF: should negotiate similar arrangements with such other State and local law enforcement agencies as may provide meaningful assistance.
+HYP: Thank you.
+
+REF: Much useful information will come to the attention of local law enforcement agencies in the regular course of their activities,
+HYP: Thank you.
+
+REF: and this source should not be neglected by undue concentration on relationships with other Federal agencies.
+HYP: Thank you.
+
+REF: Finally, these agreements with Federal and local authorities will be of little value
+HYP: Thank you.
+
+REF: unless a system is established for the frequent formal review of activities thereunder. In this regard
+HYP: Thank you.
+
+REF: the Commission notes with approval several recent measures taken and proposed by the Secret Service to improve its liaison arrangements.
+HYP: Thank you.
+
+REF: In his testimony Secretary of the Treasury C. Douglas Dillon informed the Commission
+HYP: Thank you.
+
+REF: that an interagency committee has been established to develop more effective criteria.
+HYP: Thank you.
+
+REF: According to Secretary Dillon,
+HYP: Thank you.
+
+REF: the Committee will include representatives of the President's Office of Science and Technology, Department of Defense, CIA,
+HYP: Thank you.
+
+REF: FBI, and the Secret Service.
+HYP: Thank you.
+
+REF: In addition, the Department of the Treasury has requested five additional agents for its Protective Research Section
+HYP: Thank you.
+
+REF: to serve as liaison officers with law enforcement and intelligence agencies. On the basis of the Department's review during the past several months,
+HYP: Thank you.
+
+REF: Secretary Dillon testified that the use of such liaison officers is the only effective way to insure that adequate liaison is maintained.
+HYP: Thank you.
+
+REF: As a beginning step to improve liaison with local law enforcement officials, the Secret Service on August 26, 1964,
+HYP: Thank you.
+
+REF: directed its field representatives to send a form request for intelligence information to all local,
+HYP: Thank you.
+
+REF: county, and State law enforcement agencies in their districts.
+HYP: Thank you.
+
+REF: Each of these efforts appears sound,
+HYP: Thank you.
+
+REF: and the Commission recommends that these and the other measures suggested by the Commission be pursued vigorously by Secret Service.
+HYP: Thank you.
+
+REF: Automatic data processing
+HYP: Thank you.
+
+REF: Unless the Secret Service is able to deal rapidly and accurately with a growing body of data,
+HYP: Thank you.
+
+REF: the increased information supplied by other agencies will be wasted.
+HYP: Thank you.
+
+REF: PRS must develop the capacity to classify its subjects on a more sophisticated basis than the present geographic breakdown.
+HYP: Thank you.
+
+REF: Its present manual filing system is obsolete;
+HYP: Thank you.
+
+REF: it makes no use of the recent developments in automatic data processing which are widely used in the business world and in other Government offices.
+HYP: Thank you.
+
+REF: The Secret Service and the Department of the Treasury now recognize this critical need.
+HYP: Thank you.
+
+REF: In the planning document currently under review by the Bureau of the Budget, the Department recommends that it be permitted to hire five qualified persons, quote,
+HYP: Thank you.
+
+REF: to plan and develop a workable and efficient automated file and retrieval system, end quote.
+HYP: Thank you.
+
+REF: Also the Department requests the sum of $100,000 to conduct a detailed feasibility study;
+HYP: Thank you.
+
+REF: this money would be used to compensate consultants, to lease standard equipment or to purchase specially designed pilot equipment.
+HYP: Thank you.
+
+REF: On the basis of such a feasibility study,
+HYP: Thank you.
+
+REF: the Department hopes to design a practical system which will fully meet the needs of the Protective Research Section of the Secret Service.
+HYP: Thank you.
+
+REF: The Commission recommends that prompt and favorable consideration be given to this request.
+HYP: Thank you.
+
+REF: The Commission further recommends that the Secret Service coordinate its planning as closely as possible with all of the Federal agencies from which it receives information.
+HYP: Thank you.
+
+REF: The Secret Service should not and does not plan to develop its own intelligence gathering facilities to duplicate the existing facilities of other Federal agencies.
+HYP: Thank you.
+
+REF: In planning its data processing techniques,
+HYP: Thank you.
+
+REF: the Secret Service should attempt to develop a system compatible with those of the agencies from which most of its data will come. Note:
+HYP: Thank you.
+
+REF: In evaluating data processing techniques of the Secret Service,
+HYP: Thank you.
+
+REF: the Commission had occasion to become informed, to a limited extent, about the data processing techniques of other Federal intelligence and law enforcement agencies.
+HYP: Thank you.
+
+REF: The Commission was struck by the apparent lack of effort, on an interagency basis,
+HYP: Thank you.
+
+REF: to develop coordinated and mutually compatible systems, even where such coordination would not seem inconsistent
+HYP: Thank you.
+
+REF: with the particular purposes of the agency involved. The Commission recognizes that this is a controversial area
+HYP: Thank you.
+
+REF: and that many strongly held views are advanced in resistance to any suggestion that an effort be made to impose any degree of coordination.
+HYP: Thank you.
+
+REF: This matter is obviously beyond the jurisdiction of the Commission,
+HYP: Thank you.
+
+REF: but it seems to warrant further study before each agency becomes irrevocably committed to separate action.
+HYP: Thank you.
+
+REF: The Commission, therefore, recommends that the President consider ordering an inquiry into the possibility
+HYP: Thank you.
+
+REF: that coordination might be achieved to a greater extent than seems now to be contemplated, without interference with the primary mission of each agency involved.
+HYP: Thank you.
+
+REF: Protective Research participation in advance arrangements.
+HYP: Thank you.
+
+REF: Since the assassination, Secret Service procedures have been changed to require that a member of PRS accompany each advance survey team
+HYP: Thank you.
+
+REF: to establish liaison with local intelligence gathering agencies and to provide for the immediate evaluation of information received from them.
+HYP: Thank you.
+
+REF: This PRS agent will also be responsible for establishing an informal local liaison committee
+HYP: Thank you.
+
+REF: to make certain that all protective intelligence activities are coordinated.
+HYP: Thank you.
+
+REF: Based on its experience during this period, the Secret Service now recommends that additional personnel be made available to PRS
+HYP: Thank you.
+
+REF: so that these arrangements can be made permanent without adversely affecting the operations of the Service's field offices.
+HYP: Thank you.
+
+REF: The Commission regards this as a most useful innovation and urges that the practice be continued.
+HYP: Thank you.
+
+REF: Liaison With Local Law Enforcement Agencies
+HYP: Thank you.
+
+REF: Advice by the Secret Service to local police in metropolitan areas relating to the assistance expected in connection with a Presidential visit
+HYP: Thank you.
+
+REF: has hitherto been handled on an informal basis.
+HYP: Thank you.
+
+REF: The Service should consider preparing formal explanations of the cooperation anticipated during a Presidential visit to a city,
+HYP: Thank you.
+
+REF: in formats that can be communicated to each level of local authorities.
+HYP: Thank you.
+
+REF: Thus, the local chief of police could be given a master plan, prepared for the occasion, of all protective measures to be taken during the visit;
+HYP: Thank you.
+
+REF: each patrolman might be given a prepared booklet of instructions explaining what is expected of him. The Secret Service has expressed concern
+HYP: Thank you.
+
+REF: that written instructions might come into the hands of local newspapers, to the prejudice of the precautions described.
+HYP: Thank you.
+
+REF: However, the instructions must be communicated to the local police in any event and can be leaked to the press whether or not they are in writing.
+HYP: Thank you.
+
+REF: More importantly, the lack of carefully prepared and carefully transmitted instructions for typical visits to cities
+HYP: Thank you.
+
+REF: can lead to lapses in protection, such as the confusion in Dallas about whether members of the public were permitted on overpasses.
+HYP: Thank you.
+
+REF: Such instructions will not fit all circumstances, of course,
+HYP: Thank you.
+
+REF: and should not be relied upon to the detriment of the imaginative application of judgment in special cases.
+HYP: Thank you.
+
+REF: Inspection of Buildings
+HYP: Thank you.
+
+REF: Since the assassination of President Kennedy, the Secret Service has been experimenting with new techniques in the inspection of buildings along a motorcade route.
+HYP: Thank you.
+
+REF: According to Secretary Dillon,
+HYP: Thank you.
+
+REF: the studies indicate that there is some utility in attempting to designate certain buildings as involving a higher risk than others.
+HYP: Thank you.
+
+REF: The Commission strongly encourages these efforts to improve protection along a motorcade route.
+HYP: Thank you.
+
+REF: The Secret Service should utilize the personnel of other Federal law enforcement offices
+HYP: Thank you.
+
+REF: in the locality to assure adequate manpower for this task, as it is now doing.
+HYP: Thank you.
+
+REF: Lack of adequate resources is an unacceptable excuse for failing to improve advance precautions
+HYP: Thank you.
+
+REF: in this crucial area of Presidential protection.
+HYP: Thank you.
+
+REF: Secret Service Personnel and Facilities
+HYP: Thank you.
+
+REF: Testimony and other evidence before the Commission
+HYP: Thank you.
+
+REF: suggest that the Secret Service is trying to accomplish its job with too few people and without adequate modern equipment.
+HYP: Thank you.
+
+REF: Although Chief Rowley does not complain about the pay scale for Secret Service agents,
+HYP: Thank you.
+
+REF: salaries are below those of the FBI and leading municipal police forces.
+HYP: Thank you.
+
+REF: The assistant to the Director of the FBI testified that
+HYP: Thank you.
+
+REF: the caseload of each FBI agent averaged 20 to 25, and he felt that this was high.
+HYP: Thank you.
+
+REF: Chief Rowley testified that the present workload of each Secret Service agent averages 110.1 cases.
+HYP: Thank you.
+
+REF: While these statistics relate to the activities of Secret Service agents stationed in field offices and not the White House detail,
+HYP: Thank you.
+
+REF: field agents supplement those on the detail, particularly when the President is traveling.
+HYP: Thank you.
+
+REF: Although the Commission does not know whether the cases involved are entirely comparable,
+HYP: Thank you.
+
+REF: these figures suggest that the agents of the Secret Service are substantially overworked.
+HYP: Thank you.
+
+REF: In its budget request for the fiscal year beginning July 1, 1964,
+HYP: Thank you.
+
+REF: the Secret Service sought funds for 25 new positions, primarily in field offices. This increase has been approved by the Congress.
+HYP: Thank you.
+
+REF: Chief Rowley explained that this would not provide enough additional manpower to take all the measures which he considers required.
+HYP: Thank you.
+
+REF: However, the 1964 to 65 budget request was submitted in November 1963
+HYP: Thank you.
+
+REF: and requests for additional personnel were not made because of the studies then being conducted.
+HYP: Thank you.
+
+REF: The Secret Service has now presented its recommendations to the Bureau of the Budget. The plan proposed by the Service
+HYP: Thank you.
+
+REF: would take approximately 20 months to implement and require expenditures of approximately $3,000,000 during that period.
+HYP: Thank you.
+
+REF: The plan provides for an additional 205 agents for the Secret Service. Seventeen of this number are proposed for the Protective Research Section;
+HYP: Thank you.
+
+REF: 145 are proposed for the field offices to handle the increased volume of security investigations
+HYP: Thank you.
+
+REF: and be available to protect the President or Vice President when they travel;
+HYP: Thank you.
+
+REF: 18 agents are proposed for a rotating pool which will go through an intensive training cycle and also be available to supplement the White House detail
+HYP: Thank you.
+
+REF: in case of unexpected need; and 25 additional agents are recommended to provide the Vice President full protection.
+HYP: Thank you.
+
+REF: The Commission urges that the Bureau of the Budget review these recommendations with the Secret Service and authorize a request for the necessary supplemental appropriation,
+HYP: Thank you.
+
+REF: as soon as it can be justified. The Congress has often stressed that it will support any reasonable request for funds for the protection of the President.
+HYP: Thank you.
+
+REF: Manpower and Technical Assistance From Other Agencies
+HYP: Thank you.
+
+REF: Before the assassination the Secret Service infrequently requested other Federal law enforcement agencies to provide personnel
+HYP: Thank you.
+
+REF: to assist in its protection functions.
+HYP: Thank you.
+
+REF: Since the assassination, the Service has experimented with the use of agents borrowed for short periods from such agencies.
+HYP: Thank you.
+
+REF: It has used other Treasury law enforcement agents on special experiments in building and route surveys in places to which the President frequently travels.
+HYP: Thank you.
+
+REF: It has also used other Federal law enforcement agents during Presidential visits to cities in which such agents are stationed.
+HYP: Thank you.
+
+REF: Thus, in the 4 months following the assassination,
+HYP: Thank you.
+
+REF: the FBI, on 16 separate occasions, supplied a total of 139 agents to assist in protection work during a Presidential visit,
+HYP: Thank you.
+
+REF: which represents a departure from its prior practice.
+HYP: Thank you.
+
+REF: From February 11 through June 30, 1964,
+HYP: Thank you.
+
+REF: the Service had the advantage of 9,500 hours of work by other enforcement agencies.
+HYP: Thank you.
+
+REF: The FBI has indicated that it is willing to continue to make such assistance available,
+HYP: Thank you.
+
+REF: even though it agrees with the Secret Service that it is preferable for the Service to have enough agents to handle all protective demands.
+HYP: Thank you.
+
+REF: The Commission endorses these efforts to supplement the Service's own personnel by obtaining, for short periods of time,
+HYP: Thank you.
+
+REF: the assistance of trained Federal law enforcement officers.
+HYP: Thank you.
+
+REF: In view of the ever-increasing mobility of American Presidents, it seems unlikely that the Service could or should increase its own staff to a size
+HYP: Thank you.
+
+REF: which would permit it to provide adequate protective manpower for all situations.
+HYP: Thank you.
+
+REF: The Commission recommends that the agencies involved determine how much periodic assistance they can provide, and that each such agency
+HYP: Thank you.
+
+REF: and the Secret Service enter into a formal agreement defining such arrangements.
+HYP: Thank you.
+
+REF: It may eventually be desirable to codify the practice in an Executive order.
+HYP: Thank you.
+
+REF: The Secret Service will be better able to plan its own long-range personnel requirements if it knows with reasonable certainty
+HYP: Thank you.
+
+REF: the amount of assistance that it can expect from other agencies.
+HYP: Thank you.
+
+REF: The occasional use of personnel from other Federal agencies to assist in protecting the President has a further advantage. It symbolizes the reality
+HYP: Thank you.
+
+REF: that the job of protecting the President has not been and cannot be exclusively the responsibility of the Secret Service.
+HYP: Thank you.
+
+REF: The Secret Service in the past has sometimes guarded its right to be acknowledged as the sole protector of the Chief Executive.
+HYP: Thank you.
+
+REF: This no longer appears to be the case.
+HYP: Thank you.
+
+REF: Protecting the President is a difficult and complex task which requires full use of the best resources of many parts of our Government.
+HYP: Thank you.
+
+REF: Recognition that the responsibility must be shared increases the likelihood that it will be met.
+HYP: Thank you.
+
+REF: Much of the Secret Service work requires the development and use of highly sophisticated equipment,
+HYP: Thank you.
+
+REF: some of which must be specially designed to fit unique requirements. Even before the assassination, and to a far greater extent thereafter,
+HYP: Thank you.
+
+REF: the Secret Service has been receiving full cooperation in scientific research and technological development
+HYP: Thank you.
+
+REF: from many Government agencies including the Department of Defense and the President's Office of Science and Technology.
+HYP: Thank you.
+
+REF: Even if the manpower and technological resources of the Secret Service are adequately augmented,
+HYP: Thank you.
+
+REF: it will continue to rely in many respects upon the greater resources of the Office of Science and Technology and other agencies.
+HYP: Thank you.
+
+REF: The Commission recommends that the present arrangements
+HYP: Thank you.
+
+REF: with the Office of Science and Technology and the other Federal agencies that have been so helpful to the Secret Service be placed on a permanent and formal basis.
+HYP: Thank you.
+
+REF: The exchange of letters dated August 31, 1964,
+HYP: Thank you.
+
+REF: between Secretary Dillon and Donald F. Hornig, Special Assistant to the President for Science and Technology, is a useful effort in the right direction.
+HYP: Thank you.
+
+REF: The Service should negotiate a memorandum of understanding with each agency that has been assisting it and from which it can expect to need help in the future.
+HYP: Thank you.
+
+REF: The essential terms of such memoranda might well be embodied in an Executive order.
+HYP: Thank you.
+
+REF: This Commission can recommend no procedures for the future protection of our Presidents which will guarantee security.
+HYP: Thank you.
+
+REF: The demands on the President in the execution of His responsibilities in today's world are so varied and complex
+HYP: Thank you.
+
+REF: and the traditions of the office in a democracy such as ours are so deep-seated as to preclude absolute security.
+HYP: Thank you.
+
+REF: The Commission has, however, from its examination of the facts of President Kennedy's assassination
+HYP: Thank you.
+
+REF: made certain recommendations which it believes would, if adopted,
+HYP: Thank you.
+
+REF: materially improve upon the procedures in effect at the time of President Kennedy's assassination and result in a substantial lessening of the danger.
+HYP: Thank you.
+
+REF: As has been pointed out, the Commission has not resolved all the proposals which could be made. The Commission nevertheless is confident that,
+HYP: Thank you.
+
+REF: with the active cooperation of the responsible agencies and with the understanding of the people of the United States in their demands upon their President,
+HYP: Thank you.
+
+REF: the recommendations we have here suggested would greatly advance the security of the office without any impairment of our fundamental liberties.
+HYP: Thank you.
+

@@ -1,0 +1,6 @@
+*.pt
+.log
+.env
+wandb/
+data/raw
+manifests/ljspeech_ipa_compressed.jsonl
