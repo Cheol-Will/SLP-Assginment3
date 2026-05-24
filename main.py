@@ -33,23 +33,23 @@ def masked_loss(pred, target, lengths, loss_fn):
 
 def get_vocoder(device):
     # jik876/hifi-gan has no hubconf.py; use pseudoinverse mel + Griffin-Lim instead.
-    mel_scale = torchaudio.transforms.MelScale(
+    fb = torchaudio.transforms.MelScale(
         n_mels=N_MELS, sample_rate=SAMPLE_RATE,
         f_min=0, f_max=8000, n_stft=513, norm="slaney", mel_scale="slaney",
-    )
-    fb = mel_scale.fb.to(device)  # (n_stft, n_mels) filterbank
+    ).fb.to(device)  # (n_stft, n_mels)
+    fb_pinv = torch.linalg.pinv(fb.T)  # (n_stft, n_mels) — pseudoinverse of mel filterbank
     griffin_lim = torchaudio.transforms.GriffinLim(
         n_fft=1024, hop_length=HOP_LENGTH, win_length=1024, n_iter=32, power=1.0,
     ).to(device)
-    return fb, griffin_lim
+    return fb_pinv, griffin_lim
 
 
 def mel_to_wav(vocoder, mel, device):
-    fb, griffin_lim = vocoder
+    fb_pinv, griffin_lim = vocoder
     if not torch.is_tensor(mel):
         mel = torch.tensor(mel, dtype=torch.float32)
-    mel_amp = torch.exp(mel.to(device)).T          # (n_mels, T) — undo log
-    spec = torch.clamp(fb @ mel_amp, min=0).unsqueeze(0)  # (1, n_stft, T)
+    mel_amp = torch.exp(mel.to(device)).T                       # (n_mels, T) — undo log
+    spec = torch.clamp(fb_pinv @ mel_amp, min=0).unsqueeze(0)  # (1, n_stft, T)
     with torch.no_grad():
         wav = griffin_lim(spec).squeeze().cpu().numpy()
     return wav
@@ -120,7 +120,6 @@ def train(args):
     mel_loss_fn = nn.L1Loss()
     dur_loss_fn = nn.MSELoss()
 
-    wandb.init(project="fastspeech2-tts", config=vars(args))
 
     global_step = 0
     best_val_loss = float("inf")
@@ -346,12 +345,19 @@ def parse_args():
     parser.add_argument("--n_dec_layers", type=int, default=4)
     parser.add_argument("--n_heads", type=int, default=2)
     parser.add_argument("--d_ff", type=int, default=1024)
+    parser.add_argument("--phases", nargs="+", default=["train", "test", "generate"],
+                        choices=["train", "test", "generate"],
+                        help="which phases to run (default: all)")
     return parser.parse_args()
 
 
 if __name__ == "__main__":
     args = parse_args()
-    train(args)
-    test(args)
-    generate(args)
+    wandb.init(project="fastspeech2-tts", name=args.run_name, config=vars(args))
+    if "train" in args.phases:
+        train(args)
+    if "test" in args.phases:
+        test(args)
+    if "generate" in args.phases:
+        generate(args)
     wandb.finish()

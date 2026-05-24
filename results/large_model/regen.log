@@ -1,0 +1,29 @@
+warning: The `tool.uv.dev-dependencies` field (used in `pyproject.toml`) is deprecated and will be removed in a future release; use `dependency-groups.dev` instead
+wandb: [wandb.login()] Loaded credentials for https://api.wandb.ai from WANDB_API_KEY.
+wandb: Currently logged in as: cheolseok-k (cheolseok-k-sungkyunkwan-university) to https://api.wandb.ai. Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.27.0
+wandb: Run data is saved locally in /home/cheolseok/audio/SLP-Assignment3/wandb/run-20260524_014238-zu25vkk6
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run large_model_regen
+wandb: ⭐️ View project at https://wandb.ai/cheolseok-k-sungkyunkwan-university/fastspeech2-tts
+wandb: 🚀 View run at https://wandb.ai/cheolseok-k-sungkyunkwan-university/fastspeech2-tts/runs/zu25vkk6
+wandb: updating run metadata
+wandb: uploading output.log; uploading wandb-summary.json; uploading config.yaml; uploading media/audio/generated_samples_0_63b2ee00c1c4f9cbf084.wav; uploading media/audio/generated_samples_0_5a38cac13aefa02c0868.wav (+ 3 more)
+wandb: uploading media/audio/generated_samples_0_63b2ee00c1c4f9cbf084.wav; uploading media/audio/generated_samples_0_5a38cac13aefa02c0868.wav; uploading media/audio/generated_samples_0_6957a5ed9b047b3c2f82.wav; uploading media/audio/generated_samples_0_c6574ef879ac0dd6719c.wav; uploading media/audio/generated_samples_0_e4d71cf48ab5d3b66f75.wav
+wandb: uploading media/audio/generated_samples_0_63b2ee00c1c4f9cbf084.wav
+wandb: 🚀 View run large_model_regen at: https://wandb.ai/cheolseok-k-sungkyunkwan-university/fastspeech2-tts/runs/zu25vkk6
+wandb: ⭐️ View project at: https://wandb.ai/cheolseok-k-sungkyunkwan-university/fastspeech2-tts
+wandb: Synced 5 W&B file(s), 5 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20260524_014238-zu25vkk6/logs
+[generate] device=cuda
+[generate] LJ012-0091 => /home/cheolseok/audio/SLP-Assignment3/results/large_model/samples/LJ012-0091.wav
+           transcript: The spoil was fairly divided; part of the notes were disposed of to a traveling "receiver," who passed over to the Continent and there cashed them easily.
+[generate] LJ014-0066 => /home/cheolseok/audio/SLP-Assignment3/results/large_model/samples/LJ014-0066.wav
+           transcript: and by dint of usurious interest on small sums advanced to needy neighbors, had amassed as much as eight thousand pounds or ten thousand pounds.
+[generate] LJ003-0011 => /home/cheolseok/audio/SLP-Assignment3/results/large_model/samples/LJ003-0011.wav
+           transcript: that not more than one bottle of wine or one quart of beer could be issued at one time. No account was taken of the amount of liquors admitted in one day,
+[generate] LJ002-0272 => /home/cheolseok/audio/SLP-Assignment3/results/large_model/samples/LJ002-0272.wav
+           transcript: on the opening of Whitecross prison for debtors in 1815.
+[generate] LJ015-0205 => /home/cheolseok/audio/SLP-Assignment3/results/large_model/samples/LJ015-0205.wav
+           transcript: who had been concerned in various "jobs" of a dishonest character, and who for the moment was a clerk in a betting office.
+[generate] done
